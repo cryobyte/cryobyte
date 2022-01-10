@@ -5,3 +5,6 @@
 * 🤔 I'm actively seeking Software Developer internship/coop opportunities
 * 📫 Connect with me on LinkedIn or shoot me an email if you have any questions/concerns 
 
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
