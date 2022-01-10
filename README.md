@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="" />]
 [<img align="left" alt="HTML5" width="26px" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" />][cssplaylist]
