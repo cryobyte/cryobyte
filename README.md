@@ -1,4 +1,4 @@
-### Hi my name is Rawhi 👋
+## Hi my name is Rawhi 👋
 * 😀 I'm a 2nd year Software Engineer Student at the University of Guelph
 * 💻 Currently working on several JS projects, as well as school projects
 * 📚 I'm also currently learning JS, NodeJS, SQL and more
@@ -6,7 +6,7 @@
 * 🤔 I'm actively seeking Software Developer internship/coop opportunities
 * 📫 Connect with me on LinkedIn or shoot me an email if you have any questions/concerns 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
