@@ -2,9 +2,8 @@
 * 😀 I'm a 2nd year Software Engineer Student at the University of Guelph
 * 💻 Currently working on several JS projects, as well as school projects
 * 📚 I'm also currently learning JS, NodeJS, SQL and more
-* 👯 If you have a project or idea to collaborate on, let me know!
-* 🤔 I'm seeking an internship/coop oppurtinity for the summer
-* 📫 Connect with me on LinkedIn or shoot me an email if you have any questions/concerns
+* 🤔 I'm currently seeking an internship/coop oppurtinity for the summer
+* 📫 Feel Free to contact me through linkedIn or email at any time!
 
 ## Languages and Tools:
 
