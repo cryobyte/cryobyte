@@ -4,7 +4,7 @@
 * 📚 I'm also currently learning JS, NodeJS, SQL and more
 * 👯 If you have a project or idea to collaborate on, let me know!
 * 🤔 I'm actively seeking Software Developer internship/coop opportunities
-* 📫 Connect with me on LinkedIn or shoot me an email if you have any questions/concerns 
+* 📫 Connect with me on LinkedIn or shoot me an email if you have any questions/concerns
 
 ## Languages and Tools:
 
