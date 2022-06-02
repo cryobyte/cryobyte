@@ -1,8 +1,8 @@
-## Hi my name is Rawhi 👋
+## Hi I'm Rawhi 👋
 * 😀 I'm a 2nd year Software Engineer Student at the University of Guelph
-* 💻 Currently working on several JS projects, as well as school projects
-* 📚 I'm also currently learning JavaScript, NodeJS, SQL and more
-* 🤔 I'm currently seeking an internship/coop oppurtinity for the summer
+* 💻 Currently working on all kinds of programming projects per
+* 📚 I'm also currently learning JavaScript, SQL and more
+* 🤔 I'm currently seeking an internship/coop oppurtinity for fall
 * 📫 Feel Free to contact me through linkedIn or email at any time!
 
 ## Languages and Tools:
