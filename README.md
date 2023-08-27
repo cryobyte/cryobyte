@@ -1,8 +1,8 @@
 ## Hi I'm Rawhi 👋
 * 😀 I'm a 4th-year Software Engineer Student at the University of Guelph
 * 💻 Currently working on all kinds of programming projects 
-* 📚 I'm currently learning SQL and JavaScript
-* 🤔 I'm currently seeking an internship/coop opportunity for Winter 2024
+* 📚 I'm currently working on some side projects
+* 🤔 I'm currently seeking an internship/co-op opportunity for *Winter 2024*!
 * 📫 Feel Free to contact me/connect with me through LinkedIn or email at any time!
 
 ## Languages and Tools:
