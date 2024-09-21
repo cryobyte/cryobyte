@@ -1,8 +1,8 @@
 ## Hi I'm ***Rawhi*** 👋
 * 😀 I'm a 4th-year **Software Engineer Student** at the University of Guelph
-* 💻 Currently working on all kinds of programming projects 
-* 📚 I'm currently working on some **side projects**
-* 🤔 I'm currently seeking an **internship/co-op** opportunity for **Winter 2024**!
+* 💻 I'm currently trying to overhaul my personal porfolio 
+* 📚 I'm also currently learning Ruby and continuing to refine my skills in React
+* 🤔 I'm currently seeking **new grad** opportunities for **Summer 2025**!
 * 📫 Feel Free to **contact** me/connect with me through **LinkedIn** or **email** at any time!
 
 ## Languages and Tools:
