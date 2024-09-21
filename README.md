@@ -19,4 +19,4 @@
 
 ‎‎‏‏‎ ‎‏‏‎ 
 ## Resume:
-* [Rawhi Al-far - Resume.pdf](https://github.com/rawhialfar/rawhialfar/blob/dda270d17f39dae26416bc098d612473514a0824/Rawhi%20Al-far%20-%20Resume.pdf)
+* [Rawhi Al-far - Resume.pdf](https://github.com/rawhialfar/rawhialfar/blob/69b78bbe92e6edf9b90eaf3d0717aef5102728ba/Rawhi%20Al-far%20-%20Resume.pdf)
