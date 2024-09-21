@@ -1,6 +1,6 @@
 ## Hi I'm ***Rawhi*** 👋
 * 😀 I'm a 4th-year **Software Engineer Student** at the University of Guelph
-* 💻 I'm currently trying to overhaul my personal porfolio 
+* 💻 I'm currently working on an overhaul for my personal portfolio (Keep an eye for that 😏)
 * 📚 I'm also currently learning Ruby and continuing to refine my skills in React
 * 🤔 I'm currently seeking **new grad** opportunities for **Summer 2025**!
 * 📫 Feel Free to **contact** me/connect with me through **LinkedIn** or **email** at any time!
