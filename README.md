@@ -54,6 +54,6 @@
 <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
 
-
+<div></div>
 ## Resume:
 * [Rawhi Al-far - Resume.pdf](https://github.com/rawhialfar/rawhialfar/blob/4878c73aee3cb5fe4f02a73cdc7f1b06e77e08fe/Rawhi%20Al-far%20-%20Resume.pdf)
