@@ -53,7 +53,7 @@
 <!-- jQuery Icon -->
 <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
-<hr height="0px"/>
+
 
 
 ## Resume:
