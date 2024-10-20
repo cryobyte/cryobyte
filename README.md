@@ -39,7 +39,7 @@
 <!-- React.js Icon -->
 <img align="left" alt="React.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <!-- AWS Icon -->
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-woodmark.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <!-- GraphQL Icon -->
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <!-- TypeScript Icon -->
