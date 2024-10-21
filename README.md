@@ -55,4 +55,4 @@
 <div > &nbsp; </div>
 
 ## Resume:
-* [Rawhi Al-far - Resume.pdf](https://github.com/rawhialfar/rawhialfar/blob/4878c73aee3cb5fe4f02a73cdc7f1b06e77e08fe/Rawhi%20Al-far%20-%20Resume.pdf)
+* [Rawhi Al-far - Resume.pdf](https://github.com/rawhialfar/rawhialfar/blob/d37a681aaea48f6b0b31bf37bd47abde6f08721b/Rawhi%20Al-far%20-%20Resume.pdf)
