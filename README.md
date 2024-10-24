@@ -15,7 +15,7 @@ I'm a passionate Software Engineering Student from Canada 🇨🇦, currently st
 * ❤️ I love working with React and JavaScript, and building engaging front-end and full-stack applications!
 * 🤔 I'm currently seeking **new grad** opportunities for **Summer 2025**!
 * 📫 Feel Free to **contact** me/connect with me through **LinkedIn** or **email** at any time!
-    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhialfar&label=Profile%20views&color=0e75b6&style=flat" alt="rawhialfar" /> </p>
 # Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
