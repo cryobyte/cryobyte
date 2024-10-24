@@ -50,9 +50,9 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <!-- Tailwind CSS Icon -->
 <img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<div > &nbsp; </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhialfar&label=Profile%20views&color=0e75b6&style=flat" alt="rawhialfar" /> </p>
-<div > &nbsp; </div>
 
 ## Resume:
 * [Rawhi Al-far - Resume.pdf](https://github.com/rawhialfar/rawhialfar/blob/d37a681aaea48f6b0b31bf37bd47abde6f08721b/Rawhi%20Al-far%20-%20Resume.pdf)
