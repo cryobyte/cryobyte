@@ -51,7 +51,7 @@
 <!-- Tailwind CSS Icon -->
 <img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhialfar&label=Profile%20views&color=0e75b6&style=flat" alt="rawhialfar" /> </p>
 <div > &nbsp; </div>
 
 ## Resume:
