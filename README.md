@@ -16,7 +16,7 @@ I'm a passionate Software Engineering Student from Jordan 🇯🇴 living in Can
 * 📈 Contributed to various projects, including client-facing web apps and mobile platforms, and led testing and development initiatives
 * 💼 Former Software Development Intern at Fill It Forward and Quality Engineer at TD
 * ❤️ I love working with React and JavaScript, and building engaging front-end and full-stack applications!
-* 🤔 I'm currently seeking **new grad** opportunities for **Summer 2025**!
+* 🤔 I'm currently seeking **new grad/intern** opportunities for **Summer 2025**!
 * 📫 Feel Free to **contact** me/connect with me through **LinkedIn** or **email** at any time!
 
 # Languages and Tools
