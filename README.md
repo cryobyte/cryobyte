@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rawhialfar.netlify.app"><img width="70%" alt="Hello, I'm Rawhi. Software Engineer" src="./Name.png" />
+<p align="end"><a href="https://rawhialfar.netlify.app"><img width="70%" alt="Hello, I'm Rawhi. Software Engineer" src="./Name.png" />
 
 I'm a passionate Software Engineering Student from Canada 🇨🇦, currently studying at the University of Guelph.
 
