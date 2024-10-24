@@ -29,7 +29,9 @@ I'm a passionate Software Engineering Student from Canada 🇨🇦, currently st
 # Some fun stats
 | <a href="https://github.com/rawhialfar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rawhialfar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rawhi's github stats" /></a> | <a href="https://github.com/rawhialfar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawhialfar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-  
+
+# Resume
+<a href="https://github.com/rawhialfar/rawhialfar/blob/88b202fed7c0a7e122d6ea539ff9795d5f485b06/Rawhi%20Al-far%20-%20Resume.pdf"> Rawhi Alfar - Resume.pdf </a>
 <!-- # Top Repository
 <div style="display: flex; flex-direction: row;">
 
