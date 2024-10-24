@@ -10,7 +10,7 @@
 
 
 
-
+<div >
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <!-- Visual Studio Code Icon -->
@@ -50,7 +50,7 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <!-- Tailwind CSS Icon -->
 <img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<div > &nbsp; </div>
+ &nbsp; </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhialfar&label=Profile%20views&color=0e75b6&style=flat" alt="rawhialfar" /> </p>
 
