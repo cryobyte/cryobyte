@@ -8,7 +8,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhialfar&label=Profile%20views&color=0e75b6&style=flat" alt="rawhialfar" /> </p>
-I'm a passionate Software Engineering Student from Canada 🇨🇦, currently studying at the University of Guelph.
+I'm a passionate Software Engineering Student from Jordan 🇯🇴 living in Canada 🇨🇦, currently studying at the University of Guelph.
 
 # About Me
 * 😀 I'm a 5th-year **Software Engineer Student** nearing the end of my Bachelor's degree at the University of Guelph
