@@ -14,6 +14,6 @@ About Me
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,aws,javascript,html,css,react,nodejs,tailwindcss,java,python,mongodb,firebase,flutter,typescript,bootstrap,postman,c,ruby,postgres,SQL,GraphQL" />
+    <img src="https://skillicons.dev/icons?i=github,git,aws,javascript,html,css,react,nodejs,tailwindcss,java,python,mongodb,firebase,flutter,typescript,bootstrap,postman,c,ruby,postgres,SQL,GraphQL-Dark" />
   </a>
 </p>
