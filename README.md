@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rawhialfar.netlify.app"><img width="50%" alt="Hello, I'm Rawhi. Software Engineer" src="./Name.png" />
+<p align="center"><a href="https://rawhialfar.netlify.app"><img width="70%" alt="Hello, I'm Rawhi. Software Engineer" src="./Name.png" />
 
 I'm a passionate Software Engineering Student from Canada 🇨🇦, currently studying at the University of Guelph.
 
@@ -21,6 +21,11 @@ I'm a passionate Software Engineering Student from Canada 🇨🇦, currently st
 <a href="https://github.com/rawhialfar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rawhialfar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rawhi's GitHub stats" /></a>
 
 # Top Repositories
-<div style="flex flex-row">
-<a href="https://github.com/rawhialfar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawhialfar&layout=compact&theme=buefy&hide_border=true" /></a>
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/rawhialfar/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawhialfar&layout=compact&theme=buefy&hide_border=true" />
+  </a>
+  <a href="https://github.com/rawhialfar/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rawhialfar&repo=portfolio&theme=buefy" />
+  </a>
 </div>
