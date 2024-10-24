@@ -14,6 +14,11 @@ About Me
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,aws,javascript,html,css,react,nodejs,tailwindcss,java,python,mongodb,firebase,flutter,typescript,bootstrap,postman,c,ruby,postgres,mysql,graphql" />
+    <img src="https://skillicons.dev/icons?i=github,git,aws,javascript,html,css,react,nodejs,tailwindcss,java,python,mongodb,firebase,flutter,typescript,bootstrap,postman,c,ruby,postgres,mysql,graphql,apollo" />
   </a>
 </p>
+
+<a href="https://github.com/rawhialfar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rawhialfar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rawhi's GitHub stats" /></a>
+
+Top Repositories
+<a href="https://github.com/rawhialfar/weather-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rawhialfar&repo=weather-app&theme=buefy" /> </a> <a href="https://github.com/rawhialfar/portfolio"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rawhialfar&repo=portfolio&theme=buefy" /> </a> <br /> <br /> <a href="https://twitter.com/rawhialfar"> <img align="right" alt="Rawhi Al-far | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> </a> <a href="https://codesandbox.io/u/rawhialfar"> <img align="right" alt="Rawhi Al-far | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" /> </a>
