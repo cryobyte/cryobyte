@@ -21,10 +21,6 @@ I'm a passionate Software Engineering Student from Canada 🇨🇦, currently st
 # Some fun stats
 | <a href="https://github.com/rawhialfar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rawhialfar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rawhi's github stats" /></a> | <a href="https://github.com/rawhialfar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawhialfar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
- <a href="https://github.com/rawhialfar/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawhialfar&layout=compact&theme=buefy&hide_border=true" />
-  </a>
   
 # Top Repositories
 <div style="display: flex; flex-direction: row;">
