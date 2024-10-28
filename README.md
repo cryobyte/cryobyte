@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rawhialfar.netlify.app">
-    <img width="80%" alt="Hello, I'm Rawhi. Software Engineer" src="./Name.png" />
+    <img width="80%" alt="Hello, I'm Rawhi. Software Engineer" src="https://github.com/rawhialfar/rawhialfar/blob/dd012470f26c3106cd18132b375ece62e7fc07d4/Name.png" />
   </a>
 </p>
 <h2 align="center">
