@@ -3,9 +3,9 @@
     <img width="80%" alt="Hello, I'm Rawhi. Software Engineer" src="./Name.png" style="margin-bottom: -50px;" />
   </a>
 </p>
-<p align="center">
+<h2 align="center">
   Check out my <a href="https://rawhialfar.netlify.app" target="_blank">portfolio</a>!
-</p>
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhialfar&label=Profile%20views&color=0e75b6&style=flat" alt="rawhialfar" /> </p>
 I'm a passionate Software Engineering Student from Jordan 🇯🇴 living in Canada 🇨🇦, currently studying at the University of Guelph.
