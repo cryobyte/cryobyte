@@ -22,7 +22,7 @@ I'm a passionate Software Engineering Student from Jordan 🇯🇴 living in Can
 # Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,aws,javascript,html,css,react,nodejs,tailwindcss,java,python,mongodb,firebase,flutter,typescript,bootstrap,postman,c,ruby,postgres,mysql,graphql,apollo,jest,r,materialui,php,vscode,julia" />
+    <img src="https://skillicons.dev/icons?i=github,git,aws,javascript,html,css,react,nodejs,tailwindcss,java,python,mongodb,firebase,flutter,typescript,bootstrap,postman,c,ruby,postgres,mysql,graphql,apollo,jest,r,materialui,php,vscode,ajax,jquery" />
   </a>
 </p>
 
