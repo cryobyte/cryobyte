@@ -12,7 +12,7 @@ I'm a passionate Software Engineering Student from Jordan 🇯🇴 living in Can
 
 # About Me
 * 😀 I'm a 5th-year **Software Engineer Student** nearing the end of my Bachelor's degree at the University of Guelph
-* 💻 I'm currently working on an overhaul for my portfolio (Keep an eye out for that 😏)
+* 💻 I'm currently learning Flutter
 * 📈 Contributed to various projects, including client-facing web apps and mobile platforms, and led testing and development initiatives
 * 💼 Former Software Development Intern at Fill It Forward and Quality Engineer at TD
 * ❤️ I love working with React and JavaScript, and building engaging front-end and full-stack applications!
