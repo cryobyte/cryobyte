@@ -31,7 +31,7 @@ I'm a passionate Software Engineering Student from Jordan 🇯🇴 living in Can
 | ------------- | ------------- |
 
 # Resume
-<a href="https://github.com/rawhialfar/rawhialfar/blob/88b202fed7c0a7e122d6ea539ff9795d5f485b06/Rawhi%20Al-far%20-%20Resume.pdf"> Rawhi Alfar - Resume.pdf </a>
+<a href="https://github.com/rawhialfar/rawhialfar/blob/88b202fed7c0a7e122d6ea539ff9795d5f485b06/Rawhi%20Alfar%20-%20Resume.pdf"> Rawhi Alfar - Resume.pdf </a>
 <!-- # Top Repository
 <div style="display: flex; flex-direction: row;">
 
